@@ -1,0 +1,305 @@
+{
+  "name": "Grand Restaurant",
+  "children": [
+    {
+      "name": "Continental Cuisine",
+      "children": [
+        {
+          "name": "Italian",
+          "children": [
+            {
+              "name": "Pizzas",
+              "children": [
+                {"name": "Margherita"},
+                {"name": "Pepperoni"},
+                {"name": "Vegetarian"},
+                {"name": "Seafood"}
+              ]
+            },
+            {
+              "name": "Pasta",
+              "children": [
+                {"name": "Spaghetti"},
+                {"name": "Fettuccine"},
+                {"name": "Lasagna"},
+                {"name": "Ravioli"}
+              ]
+            },
+            {
+              "name": "Seafood",
+              "children": [
+                {"name": "Salmon"},
+                {"name": "Shrimp"},
+                {"name": "Calamari"},
+                {"name": "Lobster"}
+              ]
+            },
+            {
+              "name": "Desserts",
+              "children": [
+                {"name": "Tiramisu"},
+                {"name": "Cannoli"},
+                {"name": "Gelato"},
+                {"name": "Panna Cotta"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "French",
+          "children": [
+            {
+              "name": "Appetizers",
+              "children": [
+                {"name": "Escargot"},
+                {"name": "Foie Gras"},
+                {"name": "Onion Soup"},
+                {"name": "Pate"}
+              ]
+            },
+            {
+              "name": "Entrees",
+              "children": [
+                {"name": "Coq au Vin"},
+                {"name": "Duck a l'Orange"},
+                {"name": "Ratatouille"},
+                {"name": "Beef Bourguignon"}
+              ]
+            },
+            {
+              "name": "Cheeses",
+              "children": [
+                {"name": "Brie"},
+                {"name": "Camembert"},
+                {"name": "Roquefort"},
+                {"name": "Comte"}
+              ]
+            },
+            {
+              "name": "Desserts",
+              "children": [
+                {"name": "Creme Brulee"},
+                {"name": "Chocolate Mousse"},
+                {"name": "Tarte Tatin"},
+                {"name": "Profiteroles"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mediterranean",
+          "children": [
+            {
+              "name": "Starters",
+              "children": [
+                {"name": "Hummus"},
+                {"name": "Baba Ghanoush"},
+                {"name": "Tabbouleh"},
+                {"name": "Spanakopita"}
+              ]
+            },
+            {
+              "name": "Kebabs",
+              "children": [
+                {"name": "Chicken Kebab"},
+                {"name": "Lamb Kebab"},
+                {"name": "Vegetable Kebab"},
+                {"name": "Shish Taouk"}
+              ]
+            },
+            {
+              "name": "Fish Dishes",
+              "children": [
+                {"name": "Grilled Salmon"},
+                {"name": "Stuffed Trout"},
+                {"name": "Calamari"},
+                {"name": "Tuna Steak"}
+              ]
+            },
+            {
+              "name": "Sweets",
+              "children": [
+                {"name": "Baklava"},
+                {"name": "Kunafa"},
+                {"name": "Rice Pudding"},
+                {"name": "Sutlac"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asian Cuisine",
+      "children": [
+        {
+          "name": "Chinese",
+          "children": [
+            {
+              "name": "Appetizers",
+              "children": [
+                {"name": "Egg Rolls"},
+                {"name": "Crab Rangoon"},
+                {"name": "Potstickers"},
+                {"name": "Spring Rolls"}
+              ]
+            },
+            {
+              "name": "Noodles",
+              "children": [
+                {"name": "Lo Mein"},
+                {"name": "Chow Mein"},
+                {"name": "Dan Dan Noodles"},
+                {"name": "Udon"}
+              ]
+            },
+            {
+              "name": "Rice Dishes",
+              "children": [
+                {"name": "Fried Rice"},
+                {"name": "Yang Chow Fried Rice"},
+                {"name": "Pineapple Fried Rice"},
+                {"name": "Steamed Rice"}
+              ]
+            },
+            {
+              "name": "Desserts",
+              "children": [
+                {"name": "Fortune Cookies"},
+                {"name": "Almond Cookies"},
+                {"name": "Lychee Sorbet"},
+                {"name": "Red Bean Bun"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Japanese",
+          "children": [
+            {
+              "name": "Sushi",
+              "children": [
+                {"name": "Nigiri Sushi"},
+                {"name": "Maki Sushi"},
+                {"name": "Sashimi"},
+                {"name": "Temaki"}
+              ]
+            },
+            {
+              "name": "Sashimi",
+              "children": [
+                {"name": "Tuna Sashimi"},
+                {"name": "Salmon Sashimi"},
+                {"name": "Yellowtail Sashimi"},
+                {"name": "Scallop Sashimi"}
+              ]
+            },
+            {
+              "name": "Nigiri",
+              "children": [
+                {"name": "Salmon Nigiri"},
+                {"name": "Tuna Nigiri"},
+                {"name": "Shrimp Nigiri"},
+                {"name": "Eel Nigiri"}
+              ]
+            },
+            {
+              "name": "Desserts",
+              "children": [
+                {"name": "Mochi"},
+                {"name": "Green Tea Ice Cream"},
+                {"name": "Dorayaki"},
+                {"name": "Anmitsu"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Indian",
+          "children": [
+            {
+              "name": "Appetizers",
+              "children": [
+                {"name": "Samosa"},
+                {"name": "Pakoras"},
+                {"name": "Paneer Tikka"},
+                {"name": "Aloo Tikki"}
+              ]
+            },
+            {
+              "name": "Curries",
+              "children": [
+                {"name": "Butter Chicken"},
+                {"name": "Chicken Tikka Masala"},
+                {"name": "Vegetable Korma"},
+                {"name": "Saag Paneer"}
+              ]
+            },
+            {
+              "name": "Tandoor",
+              "children": [
+                {"name": "Tandoori Chicken"},
+                {"name": "Seekh Kebab"},
+                {"name": "Naan"},
+                {"name": "Roti"}
+              ]
+            },
+            {
+              "name": "Sweets",
+              "children": [
+                {"name": "Gulab Jamun"},
+                {"name": "Rasgulla"},
+                {"name": "Jalebi"},
+                {"name": "Kulfi"}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Specialties",
+      "children": [
+        {
+          "name": "Vegetarian",
+          "children": [
+            {"name": "Salads"},
+            {"name": "Entrees"},
+            {"name": "Sides"},
+            {"name": "Desserts"}
+          ]
+        },
+        {
+          "name": "Gluten-Free",
+          "children": [
+            {"name": "Appetizers"},
+            {"name": "Main Courses"},
+            {"name": "Sides"},
+            {"name": "Sweets"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "children": [
+        {
+          "name": "Alcoholic",
+          "children": [
+            {"name": "Wines"},
+            {"name": "Beers"},
+            {"name": "Cocktails"}
+          ]
+        },
+        {
+          "name": "Non-Alcoholic",
+          "children": [
+            {"name": "Soft Drinks"},
+            {"name": "Juices"},
+            {"name": "Mocktails"}
+          ]
+        }
+      ]
+    }
+  ]
+}
